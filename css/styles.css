@@ -56,3 +56,15 @@ tr:hover {background-color:#dbb08db0!important}
     min-height: 300px;
 }
 
+.cancel {
+    border-color:#DFDFDF;
+    background-color:#DFDFDF;
+    color: rgb(0, 0, 0);
+}
+
+.cancel:hover {
+    background: slategray;
+    color: white;
+  }
+  
+  
