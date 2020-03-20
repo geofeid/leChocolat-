@@ -30,8 +30,11 @@ address{
 }
 
 body{
+
     padding:50px 0px 0px 0px;
     z-index:0;
+
+    
 }
 .bg-light {
     background-color: #dbb08d !important;
@@ -43,9 +46,12 @@ body{
 }
 tr:hover {background-color:#dbb08db0!important}
 
+
 .carousel {
-    background:#914d15b0
-}
+    background-color:#914d15b0!important
+    }
+
+
 .carousel-item {
   height: 300px;
 }
@@ -72,4 +78,45 @@ tr:hover {background-color:#dbb08db0!important}
     position: absolute;
     bottom: 0px;
 }
+
+.prev-next
+{
+    
+position: relative;
+bottom: 150px;
+}
+
+
+
+    
+
+
+.carousel-head
+{
+    position: relative;
+    left: 150px;
+    bottom:120px;
+}
+
+.carousel-para
+{
+    position: relative;
+    font-size: 1.4vw;
+left: 150px;
+bottom: 10px;
+}
   
+.recipes
+{
+    background: #995a27e0;
+    padding: 20px;
+    color: white;
+}
+
+#indi
+{
+    position: absolute;
+    left: 290px;
+    bottom: 0px;
+}
+
