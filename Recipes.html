@@ -474,11 +474,9 @@
     <script src="node_modules/popper.js/dist/umd/popper.min.js"></script>
     <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="js/scripts.js"></script>
-    <script >
+    <script>
     
-            // $(function () {
-            //     $('[data-toggle="modal"]').modal()
-            // })
+           
             document.getElementById("recipe4").style.display = "none";
             document.getElementById("recipe3").style.display = "none";
             document.getElementById("recipe2").style.display = "none";
@@ -488,7 +486,7 @@
     
 
 
-            function myFunction(button,recipe) { 
+    function myFunction(button,recipe) { 
                 
                 var elem = document.getElementById(button);
     if (elem.value=="hide recipe") elem.value = "show recipe";
@@ -500,6 +498,8 @@
   } else {
     x.style.display = "none";
   }
+}
+
     </script>
     <!-- endbuild -->
 </body>
