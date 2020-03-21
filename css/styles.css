@@ -95,7 +95,7 @@ bottom: 150px;
 {
     position: relative;
     left: 150px;
-    bottom:120px
+    bottom:120px;
 }
 
 .carousel-para
@@ -108,8 +108,8 @@ bottom: 10px;
   
 .recipes
 {
-    background: #995a27e0;
-    padding: 20px;
+    background: #995a27e0!important;
+    padding: 20px!important;
     color: white!important
 }
 
