@@ -108,9 +108,14 @@ bottom: 10px;
   
 .recipes
 {
-    background: #995a27e0!important;
-    padding: 20px!important;
-    color: white!important
+    background-color: #995a27e0!important
+    
+}
+
+.recipes-text
+{
+    color: white;
+    padding: 20px;
 }
 
 #indi
