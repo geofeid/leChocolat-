@@ -125,3 +125,34 @@ bottom: 10px;
     bottom: 0px;
 }
 
+
+.links
+{
+    color: white;
+  background-color: transparent;
+  text-decoration:  none;
+}
+
+.links:hover
+{
+    color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+.recipes-tasty
+{
+    position: relative;
+    text-align: center;
+    right: 15px;
+}
+
+.custom-button:focus {
+    outline: none !important;
+    border: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+
+
